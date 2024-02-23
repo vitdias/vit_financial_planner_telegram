@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pegachavesvit",
+  "private_key_id": "df11e367534a18011879331166b3c547bb0c5e49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5PT7UUbt8HY0K\nA7tUEMJ30gykzO5VEMmyh8+boe8xt/wdq0W2iZ0ErJ5ek+dTaWlZOge9VR1MyZfx\n2wMKkj5Ltd9VFtAEAD22DgXgXgK61+C4duGbsoOX3R/OeKS7MF5JA2jm37LYvYXk\nb7b+tM1wjsl0DoS3GWNDvlGsXdjvTC0woOlrt5UsgWGvOSIYr2+bXofAzY2+piOH\ns8T3WasBzqfqvttxe5BIwkYXY7dhkuDDvG9CLXTaXHRn0tlbjfIYQEo84FQ6SpC4\nU4N7D1LzTqbk5qnWqewCRwSjd5yHGLx/VlouS0QRI4R+XcqsPt3t1jHg76jq0tLF\nsr4vuXzVAgMBAAECggEAA5YO6NVIyiUGrXvpGhtPrwu1lIAanxrigdjoEc0KXB9H\nx0mhEAPY1a0awW78O/+qkoBrsgdYZtLw2RLePoXr00et4N6y9xMLwbZlg7pYYl26\njietODJ78/vAQh0t50CPJl5Ck5pk/Qpjt5vyP1I0TrYix3pHNHpCwcEgLQXHjZt/\ncGPnYI+NfJnRXiNRb5kFHZdPS8ly7t8mtPMUlZNGkVP8DOsMCn9VXwTkBtqR6AFT\nHThjl5ANM4oqUry7PyhdSzPl5VAM6fZMGKjO79RVHrcIumfBlwA9571PSDmnjpTs\nSbUfZqcUgNC6T3ZGVyYtvjHPO8qY9VRoWf5ha9CIsQKBgQDogFCw3RKMT6m7kKgc\nEGaupoPXXrXzdEbyMm2+t1ACQFxJF2/xupAVqB4b911poPGhz43CGt4VaNavxEcK\nnnZP+7FwodLPpvJoZI9XRB8kaCqIuCVFclXVps3RDTUKC0cJ+078tTD0hJH75WTl\nEe9C0cl4HcheNRnD3gbJFJT1vQKBgQDL9hWEIuU5ef8L1FeIIsVSZqF7hwo90w3K\nTy5KkqUVtXCpWmalwUgB/7kOixlYk+2OFZojaNjaabLh1SSYrXN5zulL3/oqnHkd\n48jzLXu050g3970u+M9Z1bGCXvqOjB7kMrlzcBwH8SGzQtYH08iy3uAYD2bKLcjc\nTuTyc+vY+QKBgGCkHWY2riQGZO3i5g2sP5IvArQ92PGWDntTvMw+VBJrgDCdflmD\nC6sE02cafgiO7oEszaa2FkPd7QboVgMy9MiwPQQtL3xCz5XW3sIOPcebSLrFmDBy\nov0ItZpEnBxNrbyXajCee/fXNvr2UebpeoNSwiScdJG8DracjkN8u6IdAoGAf/WX\nchribLjZBfbmI4aM/TFeRj1mc3shv7cFd8ugvonicJ1CoOMt5fMlirZB5IyKEQYE\negqhYgXGMGCkYRUQyW7CdtPCA1G/urzZqZbzcX9Yk6RdkEaQ7+9dOkmUMDJAfzJD\nnuTK8UCav/hChw6bb3zcYrvm5RjsVys3/9QyNyECgYBVDula7TDUpBGxt0VB6b5t\nhCr9eFEj/JjhpW3Hj3ZDSq4sGBNfCCNeUpceM02OwlG9Uzaiq3QC3Lt7r2LKDuZD\nmOxV6EWP0tV7/TAZZgtF5SDgJRcLq/fUqMUyzMkwXd1xcIx5m/leW7s3e7oow4iU\nWn1Btk4ZDyplO9wP5B9UJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "botpessoalvit@pegachavesvit.iam.gserviceaccount.com",
+  "client_id": "113223014623514460627",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botpessoalvit%40pegachavesvit.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
